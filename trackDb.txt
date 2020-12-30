@@ -3,7 +3,7 @@ bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/E12_5_p3
 shortLabel E12_5_p300_int_mm10
 longLabel E12_5_p300_int_mm10
 type bigBed
-nvisibility squish
+nvisibility dense
 ncolor 0,0,255
 
 track PAX6_CUTRUN_peaks
@@ -11,7 +11,7 @@ bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/PAX6_CUT
 shortLabel PAX6_CUTRUN_peaks
 longLabel PAX6_CUTRUN_peaks
 type bigBed
-nvisibility squish
+nvisibility dense
 ncolor 0,0,255
 
 track E12_5_ATAC
@@ -19,6 +19,21 @@ bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/E12_5_AT
 shortLabel E12_5_ATAC
 longLabel E12_5_ATAC
 type bigBed
-nvisibility squish
+nvisibility dense
 ncolor 0,0,255
 
+track GSM2346442_E12.5_FB_H3K27ac_rep2
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/GSM2346442_E12.5_FB_H3K27ac_rep2.bw
+shortLabel GSM2346442_E12.5_FB_H3K27ac_rep2
+longLabel GSM2346442_E12.5_FB_H3K27ac_rep2
+type bigWig
+nvisibility full
+ncolor 0,0,255
+
+track GSM2346438_E12.5_FB_input
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/GSM2346438_E12.5_FB_input.bw
+shortLabel GSM2346438_E12.5_FB_input
+longLabel GSM2346438_E12.5_FB_input
+type bigWig
+nvisibility full
+ncolor 0,0,255
