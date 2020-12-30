@@ -1,0 +1,24 @@
+track E12_5_p300_int_mm10
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/E12_5_p300_int_mm10.bb
+shortLabel E12_5_p300_int_mm10
+longLabel E12_5_p300_int_mm10
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track PAX6_CUTRUN_peaks
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/PAX6_CUTRUN_peaks.bb
+shortLabel PAX6_CUTRUN_peaks
+longLabel PAX6_CUTRUN_peaks
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track E12_5_ATAC
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/E12_5_ATAC.bb
+shortLabel E12_5_ATAC
+longLabel E12_5_ATAC
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+

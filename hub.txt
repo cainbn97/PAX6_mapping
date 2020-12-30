@@ -1,0 +1,6 @@
+hub PAX6
+shortLabel PAX6
+longLabel PAX6
+genomesFile genomes.txt
+email 
+descriptionUrl
