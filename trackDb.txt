@@ -37,3 +37,11 @@ longLabel GSM2346438_E12.5_FB_input
 type bigWig
 nvisibility full
 ncolor 0,0,255
+
+track CR_peaks
+bigDataUrl https://raw.githubusercontent.com/cainbn97/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
+shortLabel CR_peaks
+longLabel CR_peaks
+type bigBed
+nvisibility dense
+ncolor 0,0,255
