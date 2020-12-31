@@ -39,7 +39,7 @@ nvisibility full
 ncolor 0,0,255
 
 track CR_peaks
-bigDataUrl https://raw.githubusercontent.com/cainbn97/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
+bigDataUrl https://raw.githubusercontent.com/cainbn97/PAX6_mapping/main/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
 shortLabel CR_peaks
 longLabel CR_peaks
 type bigBed
